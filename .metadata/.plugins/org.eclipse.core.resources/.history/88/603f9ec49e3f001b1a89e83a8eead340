@@ -1,0 +1,5 @@
+package orz.zwrok.config;
+
+public class RootConfig {
+
+}

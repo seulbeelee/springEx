@@ -1,0 +1,43 @@
+
+12월 19, 2020 23:57:33.824 NEW SESSION
+12월 19, 2020 23:57:33.824 [13276:5552:1219/235733.821:ERROR:device_event_log_impl.cc(211)] [23:57:33.821] Bluetooth: bluetooth_adapter_winrt.cc:1073 Getting Default Adapter failed.
+12월 19, 2020 23:58:39.204 [18160:13220:1219/235839.204:ERROR:device_event_log_impl.cc(211)] [23:58:39.203] Bluetooth: bluetooth_adapter_winrt.cc:1073 Getting Default Adapter failed.
+12월 20, 2020 24:05:22.334 [16268:17984:1220/000522.333:ERROR:device_event_log_impl.cc(211)] [00:05:22.332] Bluetooth: bluetooth_adapter_winrt.cc:1073 Getting Default Adapter failed.
+12월 20, 2020 24:08:48.81 [19172:1708:1220/000848.080:ERROR:device_event_log_impl.cc(211)] [00:08:48.080] Bluetooth: bluetooth_adapter_winrt.cc:1073 Getting Default Adapter failed.
+
+12월 20, 2020 24:22:22.825 NEW SESSION
+12월 20, 2020 24:22:22.825 [17736:736:1220/002222.821:ERROR:device_event_log_impl.cc(211)] [00:22:22.822] Bluetooth: bluetooth_adapter_winrt.cc:1073 Getting Default Adapter failed.
+
+12월 21, 2020 24:21:23.737 NEW SESSION
+12월 21, 2020 24:21:23.737 [13600:11216:1221/002123.735:ERROR:device_event_log_impl.cc(211)] [00:21:23.736] Bluetooth: bluetooth_adapter_winrt.cc:1073 Getting Default Adapter failed.
+12월 21, 2020 24:22:02.490 [19012:17444:1221/002202.490:ERROR:device_event_log_impl.cc(211)] [00:22:02.490] Bluetooth: bluetooth_adapter_winrt.cc:1073 Getting Default Adapter failed.
+12월 21, 2020 24:30:17.457 [7508:19164:1221/003017.457:ERROR:device_event_log_impl.cc(211)] [00:30:17.457] Bluetooth: bluetooth_adapter_winrt.cc:1073 Getting Default Adapter failed.
+12월 21, 2020 24:40:09.97 [1221/004009.087:ERROR:directory_reader_win.cc(43)] FindFirstFile: 지정된 경로를 찾을 수 없습니다. (0x3)
+12월 21, 2020 24:45:02.184 [13248:15228:1221/004502.183:ERROR:device_event_log_impl.cc(211)] [00:45:02.184] Bluetooth: bluetooth_adapter_winrt.cc:1073 Getting Default Adapter failed.
+
+12월 21, 2020 24:49:49.754 NEW SESSION
+12월 21, 2020 24:49:49.754 [10164:16348:1221/004949.753:ERROR:device_event_log_impl.cc(211)] [00:49:49.753] Bluetooth: bluetooth_adapter_winrt.cc:1073 Getting Default Adapter failed.
+12월 21, 2020 24:57:36.935 [10004:15284:1221/005736.934:ERROR:device_event_log_impl.cc(211)] [00:57:36.935] Bluetooth: bluetooth_adapter_winrt.cc:1073 Getting Default Adapter failed.
+12월 21, 2020 01:07:33.836 [1221/010733.834:ERROR:directory_reader_win.cc(43)] FindFirstFile: 지정된 경로를 찾을 수 없습니다. (0x3)
+
+12월 22, 2020 12:39:25.978 NEW SESSION
+12월 22, 2020 12:39:25.978 [12160:11932:1222/123925.976:ERROR:device_event_log_impl.cc(211)] [12:39:25.976] Bluetooth: bluetooth_adapter_winrt.cc:1073 Getting Default Adapter failed.
+12월 22, 2020 12:40:16.09 [2964:6092:1222/124016.009:ERROR:device_event_log_impl.cc(211)] [12:40:16.008] Bluetooth: bluetooth_adapter_winrt.cc:1073 Getting Default Adapter failed.
+12월 22, 2020 12:42:29.768 [15960:2932:1222/124229.768:ERROR:device_event_log_impl.cc(211)] [12:42:29.767] Bluetooth: bluetooth_adapter_winrt.cc:1073 Getting Default Adapter failed.
+12월 22, 2020 12:49:32.508 [15332:11884:1222/124932.508:ERROR:device_event_log_impl.cc(211)] [12:49:32.508] Bluetooth: bluetooth_adapter_winrt.cc:1073 Getting Default Adapter failed.
+12월 22, 2020 13:37:51.817 [8172:13240:1222/133751.816:ERROR:device_event_log_impl.cc(211)] [13:37:51.816] Bluetooth: bluetooth_adapter_winrt.cc:1073 Getting Default Adapter failed.
+12월 22, 2020 13:55:34.296 [3480:1752:1222/135534.296:ERROR:device_event_log_impl.cc(211)] [13:55:34.296] Bluetooth: bluetooth_adapter_winrt.cc:1073 Getting Default Adapter failed.
+12월 22, 2020 13:56:16.677 [1222/135616.676:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\1\AppData\Local\Google\Chrome\User Data\Crashpad\attachments\9ded79e3-99af-4ee7-ac48-0b30be3ce832: 지정된 경로를 찾을 수 없습니다. (0x3)
+12월 22, 2020 14:54:18.106 [15904:17360:1222/145418.106:ERROR:device_event_log_impl.cc(211)] [14:54:18.105] Bluetooth: bluetooth_adapter_winrt.cc:1073 Getting Default Adapter failed.
+12월 22, 2020 14:57:48.898 [8556:7896:1222/145748.898:ERROR:device_event_log_impl.cc(211)] [14:57:48.898] Bluetooth: bluetooth_adapter_winrt.cc:1073 Getting Default Adapter failed.
+12월 22, 2020 15:01:58.259 [10008:12448:1222/150158.259:ERROR:device_event_log_impl.cc(211)] [15:01:58.259] Bluetooth: bluetooth_adapter_winrt.cc:1073 Getting Default Adapter failed.
+12월 22, 2020 15:11:48.812 [1222/151148.809:ERROR:directory_reader_win.cc(43)] FindFirstFile: 지정된 경로를 찾을 수 없습니다. (0x3)
+
+12월 22, 2020 15:31:52.552 NEW SESSION
+12월 22, 2020 15:31:52.552 [14904:21012:1222/153152.549:ERROR:device_event_log_impl.cc(211)] [15:31:52.549] Bluetooth: bluetooth_adapter_winrt.cc:1073 Getting Default Adapter failed.
+
+12월 22, 2020 15:34:01.612 NEW SESSION
+12월 22, 2020 15:34:01.612 [13752:20848:1222/153401.610:ERROR:device_event_log_impl.cc(211)] [15:34:01.611] Bluetooth: bluetooth_adapter_winrt.cc:1073 Getting Default Adapter failed.
+12월 22, 2020 15:41:09.177 [14716:19100:1222/154109.177:ERROR:device_event_log_impl.cc(211)] [15:41:09.177] Bluetooth: bluetooth_adapter_winrt.cc:1073 Getting Default Adapter failed.
+12월 22, 2020 15:42:37.801 [9184:8480:1222/154237.800:ERROR:device_event_log_impl.cc(211)] [15:42:37.800] Bluetooth: bluetooth_adapter_winrt.cc:1073 Getting Default Adapter failed.
+12월 22, 2020 15:52:26.260 [1222/155226.259:ERROR:directory_reader_win.cc(43)] FindFirstFile: 지정된 경로를 찾을 수 없습니다. (0x3)
