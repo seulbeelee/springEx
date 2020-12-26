@@ -5,7 +5,7 @@
 <mapper namespace="org.zerock.mapper.BoardMapper">
 	
 	<select id="getList" resultType="org.zerock.domain.BoardVO">
-		<![CDATA[ select * from tbl_board where bno > 0 ]]>
+		<![CDATA[ select * from tbl_board where bno > 0 ORDER by bno ]]>
 	</select>
 	
 	<insert id="insert">
