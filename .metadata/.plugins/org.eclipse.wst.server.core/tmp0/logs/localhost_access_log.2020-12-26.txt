@@ -70,3 +70,8 @@
 0:0:0:0:0:0:0:1 - - [26/Dec/2020:23:49:56 +0900] "GET /resources/dist/js/sb-admin-2.js HTTP/1.1" 200 1626
 0:0:0:0:0:0:0:1 - - [26/Dec/2020:23:49:56 +0900] "GET /resources/vendor/bootstrap/css/bootstrap.min.css.map HTTP/1.1" 404 721
 0:0:0:0:0:0:0:1 - - [26/Dec/2020:23:49:56 +0900] "GET /resources/vendor/font-awesome/fonts/fontawesome-webfont.woff2?v=4.6.3 HTTP/1.1" 200 71896
+127.0.0.1 - - [26/Dec/2020:23:54:33 +0900] "GET / HTTP/1.1" 200 166
+0:0:0:0:0:0:0:1 - - [26/Dec/2020:23:54:33 +0900] "GET / HTTP/1.1" 200 166
+0:0:0:0:0:0:0:1 - - [26/Dec/2020:23:55:20 +0900] "GET /board/register HTTP/1.1" 200 21465
+0:0:0:0:0:0:0:1 - - [26/Dec/2020:23:55:34 +0900] "POST /board/register HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [26/Dec/2020:23:55:34 +0900] "GET /board/list HTTP/1.1" 200 23639
