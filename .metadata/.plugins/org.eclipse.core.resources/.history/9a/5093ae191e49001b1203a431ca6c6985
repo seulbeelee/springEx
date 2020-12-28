@@ -55,6 +55,7 @@ prefix="fmt"%> <%@include file="../includes/header.jsp"%>
       } else if (operation === "list") {
         formObj.attr("action", "/board/list").attr("method", "get");
         formObj.empty();
+        return;
       }
       formObj.submit();
     });
