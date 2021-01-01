@@ -44,7 +44,8 @@ public class BoardServiceTests {
 //	//리스트 구현
 //	@Test
 //	public void testGetList() {
-//		service.getList().forEach(board -> log.info(board));
+//		//service.getList().forEach(board -> log.info(board));
+//		service.getList(new Criteria(2, 10)).forEach(board -> log.info(board));
 //	}
 	
 //	//게시글 조회
