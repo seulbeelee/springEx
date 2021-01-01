@@ -3,15 +3,11 @@ package org.zerock.mapper;
 import java.util.List;
 
 import org.zerock.domain.BoardVO;
-import org.zerock.domain.Criteria;
 
 public interface BoardMapper {
 
 		//@Select("select * from tbl_board where bno > 0")
 		public List<BoardVO> getList();
-		
-		//페이징처리를 위한 메소드
-		public List<BoardVO> getListWithPaging(Criteria cri);
 		
 		//pk값을 몰라도 되는 경우
 		public void insert(BoardVO board);
